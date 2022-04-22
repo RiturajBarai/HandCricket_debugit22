@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandCricket</string>
+    <string name="instruction">WHEN BOT IS BOWLING THE NO. GENERATED HAS FOLLOWING PROBABILITY - 6(40%);4(30%);2(20%);1(10%) AND WHEN IT IS BATTING ALL PROBABILITY ARE SAME</string>
+</resources>
